@@ -1,7 +1,5 @@
 # Customer Churn Prediction & Explanations Dashboard
 
-![Project Demo Screenshot](<PATH_TO_YOUR_SCREENSHOT.png>)
-
 ## 🚀 Project Overview
 
 This project is an end-to-end data science application designed to predict customer churn for a fictional telecommunications company. It features an interactive web dashboard built with Plotly Dash that not only provides churn predictions but also uses SHAP (SHapley Additive exPlanations) to explain the key factors driving each prediction.
@@ -36,3 +34,4 @@ You must have **Docker** installed on your machine.
 1. **Clone the repository:**
    ```sh
    git clone [https://github.com/bindugayathri/customer-churn-dashboard.git]
+
