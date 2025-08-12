@@ -1,0 +1,16 @@
+# Git and VS Code
+.git
+.vscode
+
+# Python virtual environment
+venv
+.venv
+ENV
+env
+
+# Python cache
+__pycache__
+*.pyc
+
+# Notebooks (not needed for the final app)
+notebooks/
